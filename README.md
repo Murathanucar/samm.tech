@@ -11,7 +11,7 @@ Bu talimatlar, geliştirme ve test amacıyla projenin bir kopyasını yerel maki
 Yazılımı yüklemek için gerekenler
 
 ```
-https://github.com/Murathanucar/samm.tech reponun indirilmesi
+[Repo](https://github.com/Murathanucar/samm.tech) 'nun indirilmesi
 ```
 ```
 Python3 kurulumu
