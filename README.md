@@ -9,6 +9,10 @@ Bu talimatlar, geliştirme ve test amacıyla projenin bir kopyasını yerel maki
 ### Prerequisites
 
 Yazılımı yüklemek için gerekenler
+
+```
+https://github.com/Murathanucar/samm.tech reponun indirilmesi
+```
 ```
 Python3 kurulumu
 ```
