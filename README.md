@@ -71,7 +71,7 @@ Gizli sekme açmammızın sebebi cache den kaynaklı sorunlarla uğraşmamaktır
 Başlat menüsünden yönetici olarak çalıştır diyerek "Windows PowerShell"
 yada "Command Promt" açalım.
 Projeyi dizinine gidelim.
-docker-compose up --build komutunu çalıştıralım.Biraz uzun sürebilir image indirirken.
+docker-compose up --build komutunu çalıştıralım.Biraz uzun sürebilir docker image inerken.
 flask ve nginx konteynırları çalıştıktan sonra browser gizli sekme açıp localhost yazalım.
 ```
 
